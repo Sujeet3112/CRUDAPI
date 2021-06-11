@@ -143,8 +143,3 @@ public class CMSAPP {
 
 }
 
-// Assignment: Finish the remaining parts of our App
-//			   Try Implementing more functionalities :)
-//			   Statistics of how many customers came on a particular day :)
-//			   How many customers available in some date time range ?
-//			   Explore MetaData in JDBC :)
